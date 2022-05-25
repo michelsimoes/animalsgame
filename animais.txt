@@ -1,6 +1,5 @@
 Terrestres
 ____________________________
-
 anda
 corre
 pula
@@ -9,15 +8,17 @@ para
 
 
 
-
-Marinhos
-_____________________________
-
-nada
-sobe
-desce
+animal Hibrido
+___________________
+anda
+corre
+pula
+abaixa
 para
-
+Voa
+pousa
+subir
+descer
 
 
 Aéreos
