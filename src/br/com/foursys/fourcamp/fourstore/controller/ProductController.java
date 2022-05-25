@@ -8,7 +8,16 @@ import br.com.foursys.fourcamp.fourstore.service.ProductService;
 public class ProductController {
 	
 	ProductService service = new ProductService();
-	
+	mkfkdmkfdkmfdmf
+
+f
+ffsf
+sfsfs
+fs
+fs
+f
+s
+fs
 	
 	public Object cadProduct(String sku, Integer qtt, Double originalprice, Double saleprice,String description) {
 		
